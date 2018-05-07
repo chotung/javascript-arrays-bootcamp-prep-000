@@ -1,1 +1,1 @@
-var chocolateBars["snickers", "hundred graand", "kitkat", "skittles"];
+var chocolateBars = ["snickers", "hundred graand", "kitkat", "skittles"];
